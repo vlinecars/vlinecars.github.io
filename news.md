@@ -1,0 +1,38 @@
+---
+layout: page
+title: News
+permalink: /news/
+order: 20
+---
+
+  <div class="news-list">
+    {% for post in site.posts %}
+      <div class="news-item">
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <div class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
+		<div class="article-content">
+			{{ post.content  }}
+		</div>
+      </div>
+    {% endfor %}
+  </div>
+  
+  <!-- Pagination links -->
+  <div class="pagination">
+	  {% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+	  {% else %}
+		<span class="previous">Previous</span>
+	  {% endif %}
+	  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	  {% if paginator.next_page %}
+		<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+	  {% else %}
+		<span class="next ">Next</span>
+	  {% endif %}
+  </div>
+
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

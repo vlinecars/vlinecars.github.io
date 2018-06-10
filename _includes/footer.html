@@ -2,14 +2,7 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
@@ -28,8 +21,12 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="footer-col footer-col-3">		
+		<p>© V/LineCars.com {{ site.time | date: "%Y" }}.<br/>  
+			Original site Matt Julian 1989-2017.<br/>
+			Additional content as noted.</p>
+  
+		<p>Site last updated {{ site.time | date: "%B %-d, %Y" }}</p>
       </div>
     </div>
 

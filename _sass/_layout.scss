@@ -1,7 +1,7 @@
 /**
  * Site header
  */
-.site-header {
+.site-banner {
     border-bottom: 1px solid $grey-color-light;
 
     // Positioning context for the mobile navigation icon
@@ -33,7 +33,6 @@
 }
 
 .site-nav {
-    float: right;
     line-height: 56px;
 
     .menu-icon {
@@ -51,17 +50,14 @@
     }
 
     @include media-query($on-palm) {
-        position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
-        text-align: right;
 
         .menu-icon {
             display: block;
-            float: right;
             width: 36px;
             height: 26px;
             line-height: 0;
@@ -107,7 +103,8 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: 15px 0 30px;
+    background-color: #C0C0C0;
 }
 
 .footer-heading {
@@ -123,7 +120,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: black;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -201,10 +198,17 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
 }
 
+.news-list {
+	.post-meta {
+      margin-bottom: 15px;
+	}
+}
 
+.news-item {
+  margin-bottom: 15px;
+}
 
 /**
  * Posts
@@ -213,7 +217,7 @@
     margin-bottom: $spacing-unit;
 }
 
-.post-title {
+h1 {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
@@ -227,7 +231,7 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 26px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -235,7 +239,7 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 20x;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -243,7 +247,7 @@
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 16px;
 
         @include media-query($on-laptop) {
             font-size: 18px;
