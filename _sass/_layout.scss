@@ -200,6 +200,14 @@
     display: block;
 }
 
+.pagination {
+	margin-bottom: $spacing-unit;
+}
+
+.rss-subscribe {
+	font-size: smaller;
+}
+
 .news-list {
 	.post-meta {
       margin-bottom: 15px;

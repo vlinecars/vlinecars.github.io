@@ -47,8 +47,6 @@ https://wongm.com/2013/10/victorian-public-transport-timetable-time-formats/
 
 https://wongm.com/2006/02/another-vlocity-launch-geelong-this-time/
 
-https://wongm.com/2006/01/s302-last-day-service-vline/
-
 https://wongm.com/2005/12/a-vlocity-trip-to-ballarat/
 
 https://wongm.com/2005/06/strange-sign/

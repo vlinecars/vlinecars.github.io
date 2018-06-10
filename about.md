@@ -76,7 +76,7 @@ March 2013 sees a change to the splash screen, as the team intend to rebuild the
 
 ### 2016
 
-The *V/LineCars.com* team loses control of the vlinecars.com domain name, it is purchased by a driving school, followed by a domain squatter who runs a blog about coffee tables!
+The *V/LineCars.com* team loses control of the vlinecars.com domain name, it is purchased by a driving school, followed by a domain squatter who ran a blog about coffee tables!
 
 ### 2018
 

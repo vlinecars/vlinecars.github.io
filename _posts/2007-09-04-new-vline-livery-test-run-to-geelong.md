@@ -2,7 +2,7 @@
 layout: post
 title: New V/Line Livery/Refurbished H Sets - Test Run to Geelong
 date: 2007-09-04
-author: vlinecars
+author: Matt Julian
 comments: true
 canonical: 
 tags: [news]
@@ -13,27 +13,13 @@ tags: [news]
 <ul>
 <li>New BCH conductors van door locking system to prevent unauthorised passenger access &ndash; door can&rsquo;t be opened from within the passenger saloon without a 6P key. (Same locking as that fitted to ACN conductors vans in Power Assisted Door N sets)</li>
 <li>New seat covers</li>
-<li>
-<p>New carpet</p>
-</li>
-<li>
-<p>New marine type toilets</p>
-</li>
-<li>
-<p>New &lsquo;VLocity style&rsquo; vanities</p>
-</li>
-<li>
-<p>New curtains</p>
-</li>
-<li>
-<p>Seating layout same as previous however the seats opposite the toilet in the BCH carriage are now of the fold up/down type, to enable wheelchair passengers to sit in their chairs away from the doors.</p>
-</li>
-<li>
-<p> Handrails around the doors are now painted yellow for visibility</p>
-</li>
-<li>
-<p>All existing decals inside carriages are replaced with new ones &ndash; purple ones for internal fittings and seat numbers and red ones for the doors.</p>
-</li>
+<li>New carpet</li>
+<li>New marine type toilets</li>
+<li>New &lsquo;VLocity style&rsquo; vanities</li>
+<li>New curtains</li>
+<li>Seating layout same as previous however the seats opposite the toilet in the BCH carriage are now of the fold up/down type, to enable wheelchair passengers to sit in their chairs away from the doors.</li>
+<li>Handrails around the doors are now painted yellow for visibility</li>
+<li>All existing decals inside carriages are replaced with new ones &ndash; purple ones for internal fittings and seat numbers and red ones for the doors.</li>
 </ul>
 <p>Departure of the test run from Newport Workshops was around 1035, with arrival into Geelong Platform 3 at 1125. N474 then ran around the set, and departed back for Newport Workshops at 1140 - 1 hour and 8 minutes early.<br/> </p>
 

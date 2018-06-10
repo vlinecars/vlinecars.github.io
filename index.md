@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Welcome
+exclude: true
 ---
 
 <div class="home">
@@ -10,7 +12,7 @@ layout: default
   
   <p><img src="/images/header.jpg" alt="V/Line fleet in the sidings at Southern Cross Station" /></p>
   
-  <h2>Recent news</h2>
+  <h2>Recent articles</h2>
 
   <ul class="post-list">
     {% for post in site.posts offset: 0 limit: 3  %}
@@ -21,7 +23,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
 		<div class="article-content">
-			{{ post.excerpt  | strip_html }}
+			{{ post.excerpt  | strip_html | truncatewords: 50 }}
 		</div>
       </li>
     {% endfor %}

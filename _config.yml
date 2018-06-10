@@ -22,15 +22,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:title.html
 twitter_username: vlinecars
 facebook_username: vlinecars
-paginate: 5
-paginate_path: "/page:num/"
+paginate: 3
+paginate_path: "/articles/page:num/"
 
 # Build settings
 markdown: kramdown
 
 plugins:
- - jekyll-paginate
  - jekyll-feed
+ - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

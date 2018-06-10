@@ -16,10 +16,13 @@
 
 	  <div class="trigger">
 		  <a class="page-link" href="{{ site.baseurl }}/">Home</a>
+		  <a class="page-link" href="{{ site.baseurl }}/articles/">Articles</a>
 		{% assign sorted_pages = site.pages | sort:"order" %}
 		{% for my_page in sorted_pages %}
 		  {% if my_page.title %}
+			{% unless my_page.exclude %}
 		  <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{% if my_page.menu-title %}{{ my_page.menu-title}}{% else %}{{ my_page.title}}{% endif %}</a>
+			{% endunless %}
 		  {% endif %}
 		{% endfor %}
 	  </div>

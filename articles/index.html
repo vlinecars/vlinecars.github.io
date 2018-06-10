@@ -1,18 +1,17 @@
 ---
 layout: page
-title: News
-permalink: /news/
-order: 20
+title: Articles
+exclude: true
 ---
 
   <div class="news-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <div class="news-item">
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <div class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
+		<div class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</div>
 		<div class="article-content">
 			{{ post.content  }}
 		</div>

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: BS car trip to Swan Hill
+title: Coming soon - BS car trip to Swan Hill
 date: 2006-05-31
-author: vlinecars
+author: Matt Julian
 comments: true
 canonical: 
-tags: [fleetlists]
+tags: [news]
 ---
-
 
 After nearly 70 years of service, V/Line's fleet of BS type carriages is being withdrawn from regular revenue services - BS215 & BS216 being placed into storage at Newport Workshops in April 2006 and BS218 & BS219  removed from VN sets and placed into storage in mid May 2006, leaving just one - BS217!
 

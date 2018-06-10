@@ -2,7 +2,7 @@
 layout: post
 title: Carriage and Sprinter Refurbishment Program & New V/Line Livery - Ministerial & Media Launch
 date: 2007-09-12
-author: vlinecars
+author: Matt Julian
 comments: true
 canonical: 
 tags: [news]

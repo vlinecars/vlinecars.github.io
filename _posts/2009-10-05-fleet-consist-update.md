@@ -2,7 +2,7 @@
 layout: post
 title: Fleet consists as of October 2009
 date: 2009-10-05
-author: vlinecars
+author: Matt Julian
 comments: true
 canonical: 
 tags: [fleetlists]
