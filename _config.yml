@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  VLineCars.com endeavours to provide interesting and detailed information regarding the operations of V/Line services, along with the several types of locomotives, railcars and rollingstock V/Line uses in its day to day operations. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: /:year/:title.html
+permalink: /:year/:month/:title.html
 twitter_username: vlinecars
 facebook_username: vlinecars
 paginate: 3
