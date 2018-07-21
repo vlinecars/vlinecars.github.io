@@ -37,7 +37,7 @@ Melbourne newspaper *The Age* [ran an article on the launch](https://www.theage.
 >
 > “I think it will be quite successful,” he said.
 
-The trial was successful, with 'quiet carriages' rolled out to the entire VLocity train fleet. They have not appeared on any V/Line trains.
+The trial was successful, with 'quiet carriages' rolled out to the entire VLocity train fleet. They have not appeared on any other members of the V/Line train fleet.
 
 ## Application
 
