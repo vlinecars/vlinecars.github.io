@@ -14,6 +14,6 @@ layout: default
   
   <div class="tags"><p>This post is tagged: {{ page.tags | array_to_sentence_string }}</p></div>
   
-  {% if page.canonical %}<div class="canonical"><p>This post was originally published at <a href="http://wongm.com">Waking up in Geelong</a> as '<a href="{{ page.canonical }}">{{ page.title }}'</a>.</p></div>  {% endif %}
+  {% if page.canonical %}<div class="canonical"><p>This post was originally published {% if page.canonical contains '//wongm.com' %}at <a href="https://wongm.com">Waking up in Geelong</a>{% endif %}{% if page.canonical contains '//railgalery.wongm.com' %}at <a href="https://railgallery.wongm.com">Wongm's Rail Gallery</a>{% endif %} as '<a href="{{ page.canonical }}">{{ page.title }}'</a>.</p></div>  {% endif %}
 
 </article>
