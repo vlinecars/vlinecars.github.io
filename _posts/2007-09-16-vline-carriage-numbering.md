@@ -13,15 +13,16 @@ V/Line's fleet of locomotive hauled carriages all conform to single numbering sc
 
 Newsrail June 1984 details the introduction of the numbering scheme:
 
-<blockquote>
-All steelbodied country passenger rollingstock are to be numbered as a single series so that individual numbers allocated to each vehicle are permanently retained irrespective of subsequent modification or reclassifications. The proposed number series are as follows:
-N cars and proposed intercity cars: 1-100 (unchanged) (V/LineCars note: proposed intercity cars = proposed R cars?)
-H cars and Tulloch trailers: 101-200 [wongm: Tulloch = MTH cars]
-S and Z cars, sleeping and special cars: 201-300
-D (formerly VBPY) vans: 301-400 (as per previous direction)
-
-It is not envisaged that any alteration be made to the numbering of wooden bodies cars having regard to the short remaining life of these vehicles or to joint stock cars used on interstate services.
-</blockquote>
+> All steelbodied country passenger rollingstock are to be numbered as a single series so that individual numbers allocated to each vehicle are permanently retained irrespective of subsequent modification or reclassifications. 
+> 
+> The proposed number series are as follows:
+>   
+> - N cars and proposed intercity cars: 1-100 (unchanged) (V/LineCars note: proposed intercity cars = proposed R cars?)
+> - H cars and Tulloch trailers: 101-200 [V/LineCars note: Tulloch = MTH cars]
+> - S and Z cars, sleeping and special cars: 201-300
+> - D (formerly VBPY) vans: 301-400 (as per previous direction)
+>  
+It is not envisaged that any alteration be made to the numbering of wooden bodies cars having regard to the short remaining life of these vehicles, or to joint stock cars used on interstate services.
 
 As well as the initial allocation of carriage classes to number groups.
 
