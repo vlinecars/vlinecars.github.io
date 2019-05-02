@@ -54,11 +54,3 @@ https://wongm.com/2005/06/strange-sign/
 https://wongm.com/2018/07/vline-trains-and-antimacassars/
 
 
-
-https://railgallery.wongm.com/news/vline-p-class-locomotives-unusual-workings/
-
-https://railgallery.wongm.com/news/vline-new-livery-locos/
-
-https://railgallery.wongm.com/news/v-line-s-new-livery-part-2-railcars/
-
-https://railgallery.wongm.com/news/vline-new-livery-carriages/
