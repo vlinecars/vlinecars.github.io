@@ -22,3 +22,8 @@ ICE radio equipment on the roof of VLocity 3VL52
 
 P14 on the left with standard radio equipment, P18 alongside with the new ICE equipment
 <a href="http://railgallery.wongm.com/vline-workshops-yards/F111_7715.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-workshops-yards/F111_7715_595.jpg?cached=1437780514" alt="P14 on the left with standard radio equipment, P18 alongside with the new ICE equipment" /></a>
+
+
+
+Motorolla LSDU radio (Locomotive Safeworking Display Unit) inside an N class. Used as part of the Section Authority Working safeworking system
+<a href="http://railgallery.wongm.com/loco-bits/196_9603.jpg.html"><img src="http://railgallery.wongm.com/cache/loco-bits/196_9603_595.jpg?cached=1405606337" alt="Motorolla LSDU radio (Locomotive Safeworking Display Unit) inside an N class. Used as part of the Section Authority Working safeworking system" /></a>
