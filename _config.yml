@@ -22,7 +22,7 @@ url: "https://www.vlinecars.com" # the base hostname & protocol for your site, e
 permalink: /:year/:month/:title.html
 twitter_username: vlinecars
 facebook_username: vlinecars
-paginate: 3
+paginate: 10
 paginate_path: "/articles/page:num/"
 
 # Build settings
