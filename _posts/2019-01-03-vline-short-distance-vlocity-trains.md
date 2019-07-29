@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'short distance' Vlocity trains for V/Line
+title: New 'short distance' VLocity trains for V/Line
 author: Marcus Wong
 comments: true
 canonical: 

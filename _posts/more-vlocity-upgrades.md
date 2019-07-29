@@ -1,6 +1,6 @@
 http://www.rtbuvicloco.com.au/wp-content/uploads/2018/03/LocoLines-Edition-70.pdf
 
-VL75, the last of the current order for Vlocitys, has
+VL75, the last of the current order for VLocitys, has
 been delivered. The next order, for four trains, VL76
 -79, will has some differences. The most significant
 of these is:
