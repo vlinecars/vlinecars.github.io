@@ -9,7 +9,7 @@ tags: [news]
 
 Two years on from the official launch of the new V/Line Mk3 livery, the following rolling stock has been painted in it:-
 
-<a href="http://railgallery.wongm.com/vline-geelong/E102_4229.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-geelong/E102_4229_595.jpg?cached=1407985519" alt="Arriving into North Shore under dark skies" /></a>
+<a href="https://railgallery.wongm.com/vline-geelong/E102_4229.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-geelong/E102_4229_595.jpg?cached=1407985519" alt="Arriving into North Shore under dark skies" /></a>
 
 - 32% (8 of 25) of N Class Locomotives (includes 2 presently being repainted at Newport Workshops)
 

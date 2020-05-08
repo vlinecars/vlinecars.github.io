@@ -21,7 +21,7 @@ At some stage, there was talk/plans of them being fitted to a 3 car N set, but t
 
 They were last seen at Newport Workshops, where they remain today.
 
-<a href="http://railgallery.wongm.com/vline-bits/D141_4121.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-bits/D141_4121_595.jpg?cached=1470790803" alt="Socimi bogies stored at Newport" /></a>
+<a href="https://railgallery.wongm.com/vline-bits/D141_4121.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bits/D141_4121_595.jpg?cached=1470790803" alt="Socimi bogies stored at Newport" /></a>
 
 ## More photos
 

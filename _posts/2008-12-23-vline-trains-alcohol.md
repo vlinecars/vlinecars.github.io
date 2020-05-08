@@ -10,7 +10,7 @@ tags: [news]
 
 December 2008 saw the end of alcohol sales on V/Line trains.
 
-<img src="http://railgallery.wongm.com/cache/vline-carriage-interiors/E101_3470_595.jpg?cached=1404711447" alt="So V/Line won't sell booze from the buffet, but if I put on a funny hat and sell cocktails to fellow commuters it is legal?" />
+<img src="https://railgallery.wongm.com/cache/vline-carriage-interiors/E101_3470_595.jpg?cached=1404711447" alt="So V/Line won't sell booze from the buffet, but if I put on a funny hat and sell cocktails to fellow commuters it is legal?" />
 
 Article by Kate Lahey in *The Age* - [No more making a V/Line for the bar](https://www.smh.com.au/national/no-more-making-a-vline-for-the-bar-20081222-73nn.html)
 
@@ -34,4 +34,4 @@ Article by Kate Lahey in *The Age* - [No more making a V/Line for the bar](https
 
 Before this time only BYO alcohol was banned onboard V/Line trains.
 
-<img src="http://railgallery.wongm.com/cache/vline-carriage-interiors/170_7060_595.jpg?cached=1404841171" alt="Carriage numbers above the door of ACZ257" />
+<img src="https://railgallery.wongm.com/cache/vline-carriage-interiors/170_7060_595.jpg?cached=1404841171" alt="Carriage numbers above the door of ACZ257" />

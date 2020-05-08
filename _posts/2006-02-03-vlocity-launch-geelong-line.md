@@ -24,14 +24,14 @@ No other Geelong services were ran by VLocities today, however, as of Monday 6th
 
 Victorian Transport Minister Peter Batchelor making a speech at the Launch Ceremony
 
-<img src="http://railgallery.wongm.com/cache/geelong-vlocity-launch/241_4181_595.jpg?cached=1405031639" alt="Victorian Transport Minister Peter Batchelor making a speech at the Launch Ceremony" />
+<img src="https://railgallery.wongm.com/cache/geelong-vlocity-launch/241_4181_595.jpg?cached=1405031639" alt="Victorian Transport Minister Peter Batchelor making a speech at the Launch Ceremony" />
 
 Steve Bracks and Peter Batchelor cutting the ribbon at the Launch Ceremony
 
-<img src="http://railgallery.wongm.com/cache/geelong-vlocity-launch/241_4196_595.jpg?cached=1406021982" alt="Steve Bracks and Peter Batchelor cutting the ribbon at the Launch Ceremony" />
+<img src="https://railgallery.wongm.com/cache/geelong-vlocity-launch/241_4196_595.jpg?cached=1406021982" alt="Steve Bracks and Peter Batchelor cutting the ribbon at the Launch Ceremony" />
 
 Steve Bracks waving a flag at Geelong station
 
-<img src="http://railgallery.wongm.com/cache/geelong-vlocity-launch/242_4233_595.jpg?cached=1406021967" alt="Steve Bracks waving a flag" />
+<img src="https://railgallery.wongm.com/cache/geelong-vlocity-launch/242_4233_595.jpg?cached=1406021967" alt="Steve Bracks waving a flag" />
 
 [More photos by Marcus Wong](https://railgallery.wongm.com/geelong-vlocity-launch/)

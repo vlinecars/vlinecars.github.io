@@ -9,7 +9,7 @@ tags: [information]
 
 In 2018 four new VLocity trains were delivered to V/Line with a modified design.
 
-<a href="http://railgallery.wongm.com/vline-southern-cross/F130_2752.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-southern-cross/F130_2752_595.jpg?cached=1546856034" alt="VLocity VL77 sitting at Southern Cross platform 2 for crew familiarisation" /></a>
+<a href="https://railgallery.wongm.com/vline-southern-cross/F130_2752.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-southern-cross/F130_2752_595.jpg?cached=1546856034" alt="VLocity VL77 sitting at Southern Cross platform 2 for crew familiarisation" /></a>
 
 Numbered VL76-79, the changes included:
 
@@ -25,34 +25,34 @@ Numbered VL76-79, the changes included:
 
 The exterior differences with exisitng sets are minor.
 
-<a href="http://railgallery.wongm.com/vline-southern-cross/F130_2748.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-southern-cross/F130_2748_595.jpg?cached=1546856032" alt="VLocity VL77 alongside VL65 at Southern Cross Station" /></a>
+<a href="https://railgallery.wongm.com/vline-southern-cross/F130_2748.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-southern-cross/F130_2748_595.jpg?cached=1546856032" alt="VLocity VL77 alongside VL65 at Southern Cross Station" /></a>
 
 'Luggage area' notice about the DMD carriage door.
 
-<a href="http://railgallery.wongm.com/vline-bits/F130_2744.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-bits/F130_2744_595.jpg?cached=1546856031" alt="VLocity VL77 sitting at Southern Cross platform 2 for crew familiarisation" /></a>
+<a href="https://railgallery.wongm.com/vline-bits/F130_2744.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bits/F130_2744_595.jpg?cached=1546856031" alt="VLocity VL77 sitting at Southern Cross platform 2 for crew familiarisation" /></a>
 
 
 Wider doors leading to the wheelchair area.
 
-<a href="http://railgallery.wongm.com/vline-carriage-interiors/F130_2745.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-carriage-interiors/F130_2745_595.jpg?cached=1548710545" alt="Wider doors leading to the wheelchair area of VLocity VL77 " /></a>
+<a href="https://railgallery.wongm.com/vline-carriage-interiors/F130_2745.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-carriage-interiors/F130_2745_595.jpg?cached=1548710545" alt="Wider doors leading to the wheelchair area of VLocity VL77 " /></a>
 
 Redesigned wheelchair area.
 
-<a href="http://railgallery.wongm.com/vline-carriage-interiors/F130_2757.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-carriage-interiors/F130_2757_595.jpg?cached=1548710545" alt="Redesigned wheelchair area onboard VLocity VL77" /></a>
+<a href="https://railgallery.wongm.com/vline-carriage-interiors/F130_2757.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-carriage-interiors/F130_2757_595.jpg?cached=1548710545" alt="Redesigned wheelchair area onboard VLocity VL77" /></a>
 
 New style of sets, with a mix of face to face and facing 'club' seating. The tray tables are also different to those found on the rest of the fleet. 
 
-<a href="http://railgallery.wongm.com/vline-carriage-interiors/F130_2754.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-carriage-interiors/F130_2754_595.jpg?cached=1548721493" alt="New style of seating inside VLocity VL77" /></a>
+<a href="https://railgallery.wongm.com/vline-carriage-interiors/F130_2754.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-carriage-interiors/F130_2754_595.jpg?cached=1548721493" alt="New style of seating inside VLocity VL77" /></a>
 
 The emergency exit signage reflects the removed toilet.
 
-<a href="http://railgallery.wongm.com/vline-carriage-interiors/F130_2755.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-carriage-interiors/F130_2755_595.jpg?cached=1548710543" alt="Emergency exit signage inside VLocity VL77" /></a>
+<a href="https://railgallery.wongm.com/vline-carriage-interiors/F130_2755.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-carriage-interiors/F130_2755_595.jpg?cached=1548710543" alt="Emergency exit signage inside VLocity VL77" /></a>
 
 [VLocity VL76 and VL77 were delivered](http://vicsig.net/photo/22883) to Southern Cross Station on 28th November 2018 with [set VL78 following](http://vicsig.net/photo/22998) on 17th January 2019 
 
 The three sets are yet to enter service, stabled at the Wagon Storage Yard pending issues with excessive weight.
 
-<a href="http://railgallery.wongm.com/vline-workshops-yards/F130_5941.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-workshops-yards/F130_5941_595.jpg?cached=1548499745" alt="Brand new VLocity sets VL76, VL77 and VL78 stabled at the Wagon Storage Yard" /></a>
+<a href="https://railgallery.wongm.com/vline-workshops-yards/F130_5941.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-workshops-yards/F130_5941_595.jpg?cached=1548499745" alt="Brand new VLocity sets VL76, VL77 and VL78 stabled at the Wagon Storage Yard" /></a>
 
 **More on VLocity train weight**
 

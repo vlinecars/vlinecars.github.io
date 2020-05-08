@@ -17,7 +17,7 @@ The front of the train was made heavier for crash protection and extra seats wer
 
 The affected trains are the [four new short distance VLocity sets](/2019/01/vline-short-distance-vlocity-trains.html) - numbered VL76-79.
 
-<a href="http://railgallery.wongm.com/vline-southern-cross/F130_2758.jpg.html"><img src="http://railgallery.wongm.com/cache/vline-southern-cross/F130_2758_595.jpg?cached=1546856031" alt="VLocity VL77 shunts out of the platform at Southern Cross" /></a>
+<a href="https://railgallery.wongm.com/vline-southern-cross/F130_2758.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-southern-cross/F130_2758_595.jpg?cached=1546856031" alt="VLocity VL77 shunts out of the platform at Southern Cross" /></a>
 
 The [17 October 2016 edition](https://corporate.vline.com.au/getattachment/16cd1a7a-2973-4631-80fc-b6218b9ef990/Addenda) of the V/Line Network Service Plan - Addenda states the total tare weight of a 3-car VLocity sets VL00-VL76 as 171 tonnes.
 
