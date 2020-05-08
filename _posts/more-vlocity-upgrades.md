@@ -34,3 +34,12 @@ structure and equipment.
 Altered seating layout to accommodate more
 standing passengers.
 Toilet reinstated in the DM car.
+
+VLocity VL80 shunts out at Dudley Street
+<a href="https://railgallery.wongm.com/vline-workshops-yards/F138_5362.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-workshops-yards/F138_5362_595.jpg?cached=1587633826" alt="VLocity VL80 shunts out at Dudley Street" /></a>
+
+New cab design on VLocity VL80
+<a href="https://railgallery.wongm.com/vline-bits/F138_5366.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bits/F138_5366_595.jpg?cached=1587633826" alt="New cab design on VLocity VL80" /></a>
+
+N455, N452, N470, N472, VLocity VL22 and VL80 stabled at Dudley Street
+<a href="https://railgallery.wongm.com/vline-workshops-yards/F138_5357.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-workshops-yards/F138_5357_595.jpg?cached=1587633826" alt="N455, N452, N470, N472, VLocity VL22 and VL80 stabled at Dudley Street" /></a>
