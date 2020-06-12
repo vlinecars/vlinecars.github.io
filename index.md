@@ -28,6 +28,8 @@ exclude: true
       </li>
     {% endfor %}
   </ul>
+  
+  <p><a href="{{ "/articles/" | prepend: site.baseurl }}">More articles</a></p>
 
   <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
