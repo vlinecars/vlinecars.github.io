@@ -10,7 +10,7 @@ The retirement of V/Line's fleet of A class diesel locomotives commenced with th
 
 A62 was the first to have been put into storage, last running in November 2012.
 
-<a href="https://railgallery.wongm.com/vline-stored-locomotives/E117_7818.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-stored-locomotives/E117_7818_595.jpg?cached=1404812109" alt="A62 and P14 shunt around at Dudley Street" /></a>
+<a href="https://railgallery.wongm.com/vline-workshops-yards/E117_7818.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-workshops-yards/E117_7818_595.jpg?cached=1404812109" alt="A62 and P14 shunt around at Dudley Street" /></a>
 
 A60 followed in April 2013, following the withdrawal of regular A class workings.
 
