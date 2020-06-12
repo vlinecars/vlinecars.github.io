@@ -80,5 +80,5 @@ The *V/LineCars.com* team loses control of the vlinecars.com domain name, it is 
 
 ### 2018
 
-*V/LineCars.com* regains the vlinecars.com domain name and work starts on a skeleton version of the site.
+*V/LineCars.com* regains the vlinecars.com domain name and relaunches the site in memory of Matt Julian.
 
