@@ -86,7 +86,7 @@ A66 descends the North Melbourne flyover with a down Bacchus Marsh service (Marc
 
 A66 leads N467, N474 and empty carriage set SSH28 towards Sunshine, with an empty car move from Bacchus Marsh bound for Southern Cross (March 6, 2015)
 
-<a href="https://railgallery.wongm.com/vline-bacchus-marsh/F110_2345.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bacchus-marsh/F110_2345_595.jpg?cached=1425784317" alt="A66 leads N467, N474 and empty carriage set SSH28 towards Sunshine, bound for Southern Cross" /></a>
+<a href="https://railgallery.wongm.com/vline-transfers/F110_2345.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-transfers/F110_2345_595.jpg?cached=1425784317" alt="A66 leads N467, N474 and empty carriage set SSH28 towards Sunshine, bound for Southern Cross" /></a>
 
 V/Line museum pieces cross paths at Sunshine - A66 leads a down Bacchus Marsh service, while P17 waits on a failed push-pull set (April 27, 2015)
 
@@ -102,7 +102,7 @@ A66 ready to depart Southern Cross with a 3-car N set and power van PH454 on a d
 
 A66 leads N469, power van PH454, and carriage sets SH30, SH25, SH35 & LH33 through Deer Park West on an empty cars move to Bacchus Marsh. The rolling stock in question was supposed to stable in Bacchus Marsh over the weekend, then run two city bound services on Monday morning, but didn't make it there on Friday night due to the line being closed (August 23, 2015)
 
-<a href="https://railgallery.wongm.com/vline-bacchus-marsh/F112_0301.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bacchus-marsh/F112_0301_595.jpg?cached=1440414293" alt="A66 leads N469, power van PH454, and carriage sets SH30, SH25, SH35 & LH33 through Deer Park West on an empty cars move to Bacchus Marsh" /></a>
+<a href="https://railgallery.wongm.com/vline-transfers/F112_0301.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-transfers/F112_0301_595.jpg?cached=1440414293" alt="A66 leads N469, power van PH454, and carriage sets SH30, SH25, SH35 & LH33 through Deer Park West on an empty cars move to Bacchus Marsh" /></a>
 
 N462 and A66 depart Southern Cross on a test run to Seymour (February 18, 2016)
 
@@ -122,11 +122,11 @@ A66 leads the 6:08 up Bacchus Marsh service through Deer Park Junction (December
 
 A66 being prepared for a morning commuter service out of Bacchus Marsh (December 5, 2016)
 
-<a href="https://railgallery.wongm.com/vline-bacchus-marsh/F117_2653.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bacchus-marsh/F117_2653_595.jpg?cached=1481158199" alt="A66 being prepared for a morning commuter service out of Bacchus Marsh" /></a>
+<a href="https://railgallery.wongm.com/vline-bacchus-marsh-yards/F117_2653.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bacchus-marsh-yards/F117_2653_595.jpg?cached=1481158199" alt="A66 being prepared for a morning commuter service out of Bacchus Marsh" /></a>
 
 Commuter trains led by N462 and N472 still in the yard, as A66 moves into the platform at Bacchus Marsh (December 5, 2016)
 
-<a href="https://railgallery.wongm.com/vline-bacchus-marsh/F117_2696.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bacchus-marsh/F117_2696_595.jpg?cached=1481158217" alt="Commuter trains led by N462 and N472 still in the yard, as A66 moves into the platform at Bacchus Marsh" /></a>
+<a href="https://railgallery.wongm.com/vline-bacchus-marsh-yards/F117_2696.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bacchus-marsh-yards/F117_2696_595.jpg?cached=1481158217" alt="Commuter trains led by N462 and N472 still in the yard, as A66 moves into the platform at Bacchus Marsh" /></a>
 
 A66 leads an up Bacchus Marsh commuter service through the curves at Parwan (December 5, 2016)
 
@@ -182,7 +182,7 @@ VLocity VL32 and classmate pause at Bacchus Marsh with an up Ballarat service, w
 
 A66 runs around the carriage set in the yard at Bacchus Marsh (August 22, 2018)
 
-<a href="https://railgallery.wongm.com/vline-bacchus-marsh/F127_9094.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bacchus-marsh/F127_9094_595.jpg?cached=1535372031" alt="A66 runs around the carriage set in the yard at Bacchus Marsh" /></a>
+<a href="https://railgallery.wongm.com/vline-bacchus-marsh-yards/F127_9094.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-bacchus-marsh-yards/F127_9094_595.jpg?cached=1535372031" alt="A66 runs around the carriage set in the yard at Bacchus Marsh" /></a>
 
 'The last time' chalked onto the nose of A66 to mark it's last day of V/Line service (August 23, 2018)
 
