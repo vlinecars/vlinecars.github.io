@@ -5,6 +5,12 @@ permalink: /fleetlists/
 order: 2
 ---
 
+Automated fleet list:
+
+<ul>
+	<li><a href="https://tracker.vlinecars.com/carsets">July 2020 onwards</a></li>
+</ul>
+
 Historical fleet lists:
 
 <ul>
