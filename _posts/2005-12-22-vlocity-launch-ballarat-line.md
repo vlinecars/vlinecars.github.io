@@ -10,22 +10,23 @@ tags: [news]
 
 Thursday 22nd December 2005 saw the reopening of the Ballarat line after extensive Regional Fast Rail (RFR) works, and as a bonus to Ballarat line passengers, the launch of V/Lines new V’Locity 160 DMU’s into revenue passenger service, after 18 months of testing and training.
 
-Upon arrival into Ballarat it was evident that the original plan 
-(the first V’Locity passenger revenue run to be the 10:08 up service from Ballarat to Southern Cross) was now scrapped - as there were no V’Locities to be seen, nor politicians or dignitaries, and staff were still setting up equipment on the platform and food and beverages in the station area.
+![](/images/VLocity-Ballarat-line-launch/2005-12-22-VLine-VLocity-Ballarat-line-launch-ceremony.jpg)
+
+Upon arrival into Ballarat it was evident that the original plan  (the first V’Locity passenger revenue run to be the 10:08 up service from Ballarat to Southern Cross) was now scrapped - as there were no V’Locities to be seen, nor politicians or dignitaries, and staff were still setting up equipment on the platform and food and beverages in the station area.
 
 After querying at the station master’s desk - I found out that the plan had changed - the 0938 Southern Cross to Ararat service was the first passenger revenue run, and this train was carrying the politicians and dignitaries.
 
-With thanks to the conductor of the 1008 up service from Ballarat to Southern Cross who alerted me that I could get to Ballan by catching the 1008, then get the first V’Locity revenue service  from Ballan at 1042, 
-I opted to catch the 1008 from Ballarat to Ballan, arriving in on time at 1028.
+With thanks to the conductor of the 1008 up service from Ballarat to Southern Cross who alerted me that I could get to Ballan by catching the 1008, then get the first V’Locity revenue service  from Ballan at 1042, I opted to catch the 1008 from Ballarat to Ballan, arriving in on time at 1028.
 
 Arrival of the 1042 into Ballan, was two minutes down at 1044 - however, I was just glad to be one of the only people to be on the first V’Locity revenue service!!!!!
 
-Upon arrival into Ballarat at 1115, the Victorian Premier, Hon. Steve Bracks, and Minister for Transport, Peter Batchelor, disembarked from 1211, along with other MP’s, dignitries and invited guests.
+![](/images/VLocity-Ballarat-line-launch/2005-12-22-VLine-VLocity-Ballarat-line-launch-commemorative-ticket.jpg)
+
+Upon arrival into Ballarat at 1115, the Victorian Premier, Hon. Steve Bracks, and Minister for Transport, Peter Batchelor, disembarked from 1211, along with other MP’s, dignitaries and invited guests.
 
 Once the car was clear of passengers bound for Ballarat, VL11 was uncoupled from VL23 & VL18, moved up the platform 5m or so, then departed for Ararat at approximately 1123, 5 minutes late (not bad considering the circumstances!)
 
-Soon after arrival into Ballarat, and after the departure of VL11 on to Ararat, and VL23+VL18 moving up the platform to be opposite the premier and guests for the speeches and media interviews, the public launch of the 
-V’Locity 160 units on the Ballarat line got underway.
+Soon after arrival into Ballarat, and after the departure of VL11 on to Ararat, and VL23+VL18 moving up the platform to be opposite the premier and guests for the speeches and media interviews, the public launch of the V’Locity 160 units on the Ballarat line got underway.
 
 Speakers included the premier - Mr. Steve Bracks, followed by Mr. Rob Barnett, Chief Executive Officer - V/Line, and Mr. Peter Batchelor - Minister for Transport.
 
