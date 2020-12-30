@@ -25,3 +25,7 @@ Unfortunately the data is not 100% accurate - things to keep in mind include:
 Service histories for each VLocity DMU, Sprinter DMU and N class locomotive can be found at [https://tracker.vlinecars.com/service-histories](https://tracker.vlinecars.com/service-histories) while carriage set consist changes can be found at [https://tracker.vlinecars.com/carsets](https://tracker.vlinecars.com/carsets).
 
 Enjoy!
+
+**December 2020 Update**
+
+Unfortunately V/Line have updated their data feed, and consist data is no longer available. It was good while it lasted!
