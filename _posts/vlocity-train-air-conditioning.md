@@ -19,3 +19,44 @@ oske Kaeser Rail & Vehicles New Zealand (NK N
 http://leelelectric.com/pdf/2017-18/MDAR.pdf
 
 Lloyd Electric & Engineering, Janka Engineering, and Noske -Kaeser Rail & Vehicle
+
+
+
+
+
+
+
+
+
+
+https://www.nkrvnz.com/services/10-case-studies/43-v-line-n-cars-standard-gauge-carriages-australia
+
+
+
+https://www.nkrvnz.com/products
+
+https://leelrailsystems.com/files/technical-brochure/technical-brochure.pdf
+
+https://railgallery.wongm.com/vline-bits/F133_1815.JPG.html
+
+https://railgallery.wongm.com/vline-bits/F133_1816.JPG.html
+
+RHKA 44-2B/1 Saloon
+Customer
+Bombardier Transportation
+Platform
+VLocity
+Area of operation
+Melbourne, VIC Australia
+Cooling capacity (kW)
+44.0
+Heating capacity (kW)
+22.0
+Total air flow (m³/h)
+6714
+Length / Width / Height (mm)
+4430 / 1680 / 540
+Weight (kg)
+954
+Power supply
+415 Vac 50 Hz 3 ph
