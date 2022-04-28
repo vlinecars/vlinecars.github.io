@@ -51,6 +51,12 @@ VLocity trains undergo heavy overhauls at the Bombardier factory in Dandenong.
 
 <a href="https://railgallery.wongm.com/bombardier-dandenong/F138_4453.jpg.html"><img src="https://railgallery.wongm.com/cache/bombardier-dandenong/F138_4453_595.jpg?cached=1587641212" alt="Freshly refurbished VLocity train VL24 waiting to be delivered to V/Line" /></a>
 
+<strong>Bendigo</strong>
+
+Since 2017 maintenance of V/Line's carriage fleet has also been subcontracted to the Bendigo Railway Workshops, operated by Southern Shorthaul Railroad.
+
+<a href="https://railgallery.wongm.com/bendigo-rail-workshops/F143_8510.jpg.html"><img src="https://railgallery.wongm.com/cache/bendigo-rail-workshops/F143_8510_595.jpg?cached=1626920819" alt="V/Line carriages BH145 and BTH168 outside the sheds" /></a>
+
 <strong>Some history</strong>
 
 Downer EDI Rail once held the maintenance contract for V/Line's fleet of Sprinter DMUs, carriages and diesel locomotives. VLocity trains were maintained by Bombardier at Dandenong.
