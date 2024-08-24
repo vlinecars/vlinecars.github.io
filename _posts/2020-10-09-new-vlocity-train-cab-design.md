@@ -14,7 +14,7 @@ In 2018 it was announced than an upgraded cab design would be included on newly 
 Numbered VL80-88, changes include:
 
 - Modified cab frame structure to increase crash-worthiness
-- High Capacicity Signalling equipment installed and set up for trial.
+- High Capacity Signalling equipment installed and set up for trial.
 - Cab layout changed to incorporate ergonomic requirements and changes to cab structure and equipment.
 - Altered seating layout to accommodate more standing passengers.
 - Toilet reinstated in the DM car.
