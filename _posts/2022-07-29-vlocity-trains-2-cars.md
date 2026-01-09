@@ -38,7 +38,7 @@ Operating a mix of two and three car trains might be flexible, but makes operati
 
 The final set to be converted was [VL14 in June 2016](https://vicsig.net/passenger/dmuset/14/VLocity).
 
-<a href="https://railgallery.wongm.com/vline-regional-rail-link/F112_6983.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-regional-rail-link/F112_6983_595.jpg?cached=1627709753" alt="VLocity VL16 and classmate depart Tarneit on a down Geelong service" /></a>
+<a href="https://railgallery.wongm.com/vline-tarneit-wyndham-vale/F112_6983.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-tarneit-wyndham-vale/F112_6983_595.jpg?cached=1627709753" alt="VLocity VL16 and classmate depart Tarneit on a down Geelong service" /></a>
 
 **A footnote on liveries**
 
@@ -49,5 +49,6 @@ Set VL00, delivered in the V/Line Mk3 livery in August 2010, and retaining it un
 <a href="https://railgallery.wongm.com/vline-workshops-yards/F110_0914.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-workshops-yards/F110_0914_595.jpg?cached=1627122562" alt="VLocity VL00 heads into the turnback siding at North Dynon" /></a>
 
 Set VL12, which was repainted into PTV livery in March 2015 following accident repairs. It remained in 2-car form until November 2015, when it received the intermediate carriage.
+
 
 <a href="https://railgallery.wongm.com/vline-regional-rail-link/F111_2168.jpg.html"><img src="https://railgallery.wongm.com/cache/vline-regional-rail-link/F111_2168_595.jpg?cached=1627770903" alt="2-car VLocity VL03 leads PTV liveried classmate VL12 on a down Bendigo service onto the suburban tracks at Sunshine" /></a>
