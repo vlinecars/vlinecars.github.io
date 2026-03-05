@@ -55,14 +55,15 @@ exclude: true
 
 			// Only render if an item actually exists
 			if (item) {
-				const title = item.querySelector("title")?.textContent.split(':')[0].trim() || "No Title";
+				const title = item.querySelector("title")?.textContent.replace("On this day ", "").trim() || "";
 				
 				// Handling the 'content' namespace for <content:encoded>
-				const content = item.querySelector("description")?.textContent || "No Title";//item.getElementsByTagNameNS("http://purl.org/rss/1.0/modules/content/", "encoded")[0]?.textContent || "Content not found.";
+				const content = item.getElementsByTagNameNS("http://purl.org/rss/1.0/modules/content/", "encoded")[0]?.textContent || "";
 
 				output.innerHTML = `
-						<h2>${title}</h2>
-						<div>${content}</div>
+						<h2>On this day</h2>
+						<p>${title}</p>
+						<div style=" max-width: 702px;">${content}</div>
 				`;
 			}
 		} catch (err) {
