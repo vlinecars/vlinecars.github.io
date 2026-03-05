@@ -63,7 +63,7 @@ exclude: true
 				output.innerHTML = `
 						<h2>On this day</h2>
 						<p>${title}</p>
-						<div style=" max-width: 702px;">${content}</div>
+						<p style=" max-width: 702px;">${content}</p>
 				`;
 			}
 		} catch (err) {
