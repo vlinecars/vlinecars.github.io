@@ -12,6 +12,8 @@ exclude: true
   
   <p><img src="/images/header.jpg" alt="V/Line fleet in the sidings at Southern Cross Station" /></p>
   
+  <div id="on-this-day-content"></div>
+  
   <h2>Recent articles</h2>
 
   <ul class="post-list">
@@ -34,3 +36,39 @@ exclude: true
   <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+
+<script>
+	const FEED_URL = 'https://tracker.vlinecars.com/on-this-day-photo.php';
+
+	async function fetchSingleItem() {
+		const output = document.getElementById('on-this-day-content');
+
+		try {
+			const response = await fetch(FEED_URL);
+			const xmlText = await response.text();
+			
+			const parser = new DOMParser();
+			const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+			
+			// Select the first (and only) item
+			const item = xmlDoc.querySelector("item");
+
+			// Only render if an item actually exists
+			if (item) {
+				const title = item.querySelector("title")?.textContent.split(':')[0].trim() || "No Title";
+				
+				// Handling the 'content' namespace for <content:encoded>
+				const content = item.querySelector("description")?.textContent || "No Title";//item.getElementsByTagNameNS("http://purl.org/rss/1.0/modules/content/", "encoded")[0]?.textContent || "Content not found.";
+
+				output.innerHTML = `
+						<h2>${title}</h2>
+						<div>${content}</div>
+				`;
+			}
+		} catch (err) {
+			console.error("Fetch error:", err);
+		}
+	}
+
+	fetchSingleItem();
+</script>
